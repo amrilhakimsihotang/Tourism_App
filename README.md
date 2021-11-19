@@ -1,7 +1,7 @@
 # Menjadi Android Developer Expert
 
 master : starter project\
-├─101-clean-architecture\
+
 
 
 Jadilah expert di dunia pemrograman Android. Materi disusun oleh **Dicoding sebagai Google Authorized Training Partner**.
